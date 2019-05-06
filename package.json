@@ -1,0 +1,27 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/blur": "^3.3.1",
+    "axios": "^0.18.0",
+    "base-64": "^0.1.0",
+    "expo": "^32.0.0",
+    "moment": "^2.24.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-indicators": "^0.13.0",
+    "react-native-progress-bar-animated": "^1.0.6",
+    "react-native-swipe-gestures": "^1.0.3",
+    "rxjs": "^6.5.1",
+    "spotify-web-api-js": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
